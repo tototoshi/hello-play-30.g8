@@ -1,4 +1,4 @@
-val _scalaVersion = "3.5.2"
+val _scalaVersion = "3.6.2"
 
 lazy val `hello-play-30` = project
   .in(file("."))
